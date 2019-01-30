@@ -9,7 +9,10 @@
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
-
+AppEE1-ejb/nbproject/
+AppEE1-war/nbproject/
+AppEE1-ejb/build.xml
+AppEE1-war/build.xml
 # Package Files #
 *.jar
 *.war
@@ -21,3 +24,6 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+AppEE1-ejb/build/
+AppEE1-war/build/
+/dist/
